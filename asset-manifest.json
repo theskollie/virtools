@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/virtools/static/css/main.d0501251.css",
+    "main.js": "/virtools/static/js/main.e86b090f.js",
+    "static/media/OpenSans.ttf": "/virtools/static/media/OpenSans.9c7806d7ef7d294f568e.ttf",
+    "index.html": "/virtools/index.html",
+    "main.d0501251.css.map": "/virtools/static/css/main.d0501251.css.map",
+    "main.e86b090f.js.map": "/virtools/static/js/main.e86b090f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0501251.css",
+    "static/js/main.e86b090f.js"
+  ]
+}
